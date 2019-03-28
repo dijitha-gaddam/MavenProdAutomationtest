@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Dashboard Url: dashboard.modjoul.com]]>
+    </line>
+    <line>
+      <![CDATA[Username: 401-perftest@mailinator.com]]>
+    </line>
+    <line>
+      <![CDATA[password: **********]]>
+    </line>
+    <line>
+      <![CDATA[Last activity reported at March 25 2019 01:52:39 am]]>
+    </line>
+    <line>
+      <![CDATA[Total work time is : 0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Walking duration is :  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[ Walking step count is :  0]]>
+    </line>
+    <line>
+      <![CDATA[Walking distance in miles is : 0]]>
+    </line>
+    <line>
+      <![CDATA[WalkingSpeed in miles/hour is :  0]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Total Bend count is :  0]]>
+    </line>
+    <line>
+      <![CDATA[Bending duration is : 0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Total twistCount is :  0]]>
+    </line>
+    <line>
+      <![CDATA[Twisting duration is :  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[sitting/Standing duration is :  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Stationayworktime is : 0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Driving duration is  0mins 0secs]]>
+    </line>
+    <line>
+      <![CDATA[Driving distance in miles is :  0]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="131547" started-at="2019-03-26T11:46:37Z" finished-at="2019-03-26T11:48:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="131547" started-at="2019-03-26T11:46:37Z" finished-at="2019-03-26T11:48:48Z">
+      <class name="prodsanity.emplogin.Prod_employee_login">
+        <test-method status="PASS" signature="prodEmpLogin()[pri:0, instance:prodsanity.emplogin.Prod_employee_login@2a2d45ba]" name="prodEmpLogin" duration-ms="131513" started-at="2019-03-26T11:46:37Z" finished-at="2019-03-26T11:48:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Dashboard Url: dashboard.modjoul.com]]>
+            </line>
+            <line>
+              <![CDATA[Username: 401-perftest@mailinator.com]]>
+            </line>
+            <line>
+              <![CDATA[password: **********]]>
+            </line>
+            <line>
+              <![CDATA[Last activity reported at March 25 2019 01:52:39 am]]>
+            </line>
+            <line>
+              <![CDATA[Total work time is : 0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Walking duration is :  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[ Walking step count is :  0]]>
+            </line>
+            <line>
+              <![CDATA[Walking distance in miles is : 0]]>
+            </line>
+            <line>
+              <![CDATA[WalkingSpeed in miles/hour is :  0]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Total Bend count is :  0]]>
+            </line>
+            <line>
+              <![CDATA[Bending duration is : 0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Total twistCount is :  0]]>
+            </line>
+            <line>
+              <![CDATA[Twisting duration is :  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[sitting/Standing duration is :  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Stationayworktime is : 0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Driving duration is  0mins 0secs]]>
+            </line>
+            <line>
+              <![CDATA[Driving distance in miles is :  0]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- prodEmpLogin -->
+      </class> <!-- prodsanity.emplogin.Prod_employee_login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

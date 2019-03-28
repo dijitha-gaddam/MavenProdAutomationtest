@@ -1,0 +1,1 @@
+java -cp C:\Users\dijitha\eclipse-workspace\ProdSanity\bin;C:\Users\dijitha\eclipse-workspace\ProdSanity\libs\* org.testng.TestNG testng2.xml
